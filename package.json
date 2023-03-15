@@ -1,0 +1,19 @@
+{
+  "name": "written-codeby-me",
+  "version": "1.0.0",
+  "description": "Food donation applicaion for backend development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12345rani/food-saver.git"
+  },
+  "author": "Rani Panchore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12345rani/food-saver/issues"
+  },
+  "homepage": "https://github.com/12345rani/food-saver#readme"
+}
